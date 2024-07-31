@@ -18,16 +18,13 @@ target/
 *.iws
 *.iml
 *.ipr
+/target/
+*.log
+mvnw*
+.mvn/
+/pom.xml.tag
+/pom.xml.releaseBackup
+/dependency-reduced-pom.xml
+/release.properties
+/buildNumber.properties
 
-### NetBeans ###
-/nbproject/private/
-/nbbuild/
-/dist/
-/nbdist/
-/.nb-gradle/
-build/
-!**/src/main/**/build/
-!**/src/test/**/build/
-
-### VS Code ###
-.vscode/
